@@ -12,7 +12,7 @@ import youtubedataextractor.videoextractor.VideoData;
  *
  * @author nandan
  */
-public class YouTubeDataExtractor {
+public class YouTubeDataExtractorTest {
 
     /**
      * @param args the command line arguments
